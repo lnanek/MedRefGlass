@@ -1,0 +1,11 @@
+com/google/glassware/NotifyServlet.class
+com/google/glassware/MainServlet.class
+com/google/glassware/MirrorClient.class
+com/google/glassware/AuthFilter.class
+com/google/glassware/AttachmentProxyServlet.class
+com/google/glassware/WebUtil.class
+com/google/glassware/AuthServlet.class
+com/google/glassware/NewUserBootstrapper.class
+com/google/glassware/SignOutServlet.class
+com/google/glassware/AuthUtil.class
+com/google/glassware/ListableAppEngineCredentialStore.class
